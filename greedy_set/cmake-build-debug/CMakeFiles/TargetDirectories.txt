@@ -1,0 +1,3 @@
+C:/Users/kurma/Documents/Documents/CLionProjects/greedy_set/cmake-build-debug/CMakeFiles/greedy_set.dir
+C:/Users/kurma/Documents/Documents/CLionProjects/greedy_set/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kurma/Documents/Documents/CLionProjects/greedy_set/cmake-build-debug/CMakeFiles/rebuild_cache.dir

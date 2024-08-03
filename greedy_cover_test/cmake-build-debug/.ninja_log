@@ -1,0 +1,13 @@
+# ninja log v5
+3	829	7429367730003402	CMakeFiles/greedy_cover_test.dir/main.cpp.obj	b93e4a2d87d1ebfb
+841	949	7429367731182155	greedy_cover_test.exe	a4e1052481f5eba1
+19	840	7429367950091464	CMakeFiles/greedy_cover_test.dir/main.cpp.obj	b93e4a2d87d1ebfb
+841	945	7429367951132147	greedy_cover_test.exe	a4e1052481f5eba1
+36	964	7430265111881271	CMakeFiles/greedy_cover_test.dir/main.cpp.obj	b93e4a2d87d1ebfb
+965	1081	7430265113039952	greedy_cover_test.exe	a4e1052481f5eba1
+42	1287	7431852967081358	CMakeFiles/greedy_cover_test.dir/main.cpp.obj	b93e4a2d87d1ebfb
+1288	1410	7431852968338097	greedy_cover_test.exe	a4e1052481f5eba1
+18	908	7431853264121911	CMakeFiles/greedy_cover_test.dir/main.cpp.obj	b93e4a2d87d1ebfb
+909	1021	7431853265242650	greedy_cover_test.exe	a4e1052481f5eba1
+26	932	7431853771817152	CMakeFiles/greedy_cover_test.dir/main.cpp.obj	b93e4a2d87d1ebfb
+933	1044	7431853772926404	greedy_cover_test.exe	a4e1052481f5eba1

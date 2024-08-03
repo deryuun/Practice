@@ -1,0 +1,13 @@
+# ninja log v5
+3	732	7429289537838267	CMakeFiles/pricing_method.dir/main.cpp.obj	5d1019e86f748f56
+734	851	7429289539011429	pricing_method.exe	40c5b9872ea61da1
+6	648	7429289972463042	CMakeFiles/pricing_method.dir/main.cpp.obj	5d1019e86f748f56
+649	741	7429289973372864	pricing_method.exe	40c5b9872ea61da1
+18	591	7429290090658502	CMakeFiles/pricing_method.dir/main.cpp.obj	5d1019e86f748f56
+591	682	7429290091545952	pricing_method.exe	40c5b9872ea61da1
+18	603	7429290285759250	CMakeFiles/pricing_method.dir/main.cpp.obj	5d1019e86f748f56
+603	694	7429290286667470	pricing_method.exe	40c5b9872ea61da1
+19	612	7429291388024293	CMakeFiles/pricing_method.dir/main.cpp.obj	5d1019e86f748f56
+624	716	7429291389053504	pricing_method.exe	40c5b9872ea61da1
+20	604	7429291668484911	CMakeFiles/pricing_method.dir/main.cpp.obj	5d1019e86f748f56
+604	695	7429291669385791	pricing_method.exe	40c5b9872ea61da1

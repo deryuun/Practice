@@ -1,0 +1,15 @@
+# ninja log v5
+3	984	7431851547990053	CMakeFiles/greedy_set_test.dir/main.cpp.obj	a55a99ac54e9392e
+986	1115	7431851549289235	greedy_set_test.exe	be80acf16d91ee5a
+6	1123	7431852668166542	CMakeFiles/greedy_set_test.dir/main.cpp.obj	a55a99ac54e9392e
+1123	1270	7431852669622913	greedy_set_test.exe	be80acf16d91ee5a
+23	983	7431853626644800	CMakeFiles/greedy_set_test.dir/main.cpp.obj	a55a99ac54e9392e
+984	1093	7431853627724290	greedy_set_test.exe	be80acf16d91ee5a
+18	940	7431857749503943	CMakeFiles/greedy_set_test.dir/main.cpp.obj	a55a99ac54e9392e
+941	1049	7431857750592931	greedy_set_test.exe	be80acf16d91ee5a
+25	1191	7431858518886583	CMakeFiles/greedy_set_test.dir/main.cpp.obj	a55a99ac54e9392e
+1201	1315	7431858520116422	greedy_set_test.exe	be80acf16d91ee5a
+22	894	7431858664316679	CMakeFiles/greedy_set_test.dir/main.cpp.obj	a55a99ac54e9392e
+895	1006	7431858665424862	greedy_set_test.exe	be80acf16d91ee5a
+5	910	7431900363335049	CMakeFiles/greedy_set_test.dir/main.cpp.obj	a55a99ac54e9392e
+910	1029	7431900364506337	greedy_set_test.exe	be80acf16d91ee5a
